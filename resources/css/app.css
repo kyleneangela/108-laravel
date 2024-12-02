@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-custom-orange {
+    background-color: #ff9800;
+    color: white;
+}
+
+.btn-custom-purple {
+    background-color: #673071;
+    color: white;
+}
+
+.btn-custom-orange:hover {
+    background-color: #e68a00;
+}
+
+.btn-custom-purple:hover {
+    background-color: #7a1c88;
+}
+
